@@ -32,3 +32,7 @@ King County House Price dataset (simplified version)
 This assignment reinforced the importance of data cleaning and thoughtful feature engineering in improving model accuracy. One key insight came from the box plot visualization: after refining the feature set each time and re-running the data for the model the plot points got closer to the red dash line indication a better match for predicting pricing.
 
 Future iterations could explore nonlinear models (e.g., Random Forest or Gradient Boosting) to capture deeper interactions between features like `house_age`, `LandVal`, and `BldgGrade`. Additionally, evaluating feature importance and residuals could help identify remaining sources of prediction error.
+
+## 🎥 Video Walkthrough  
+[![Watch the walkthrough](https://youtu.be/aPa6a7NBJQk)  
+Click the thumbnail to watch the full assignment walkthrough.
